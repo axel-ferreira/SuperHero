@@ -1,0 +1,12 @@
+h6{
+    color: blue;
+}
+span{
+    color: black;
+    font-size: 14px;
+}
+.info{
+    border: solid salmon;
+    margin: 20px 0px 10px 0px;
+    padding: 20px 0px 10px 5px;
+}
