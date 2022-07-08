@@ -38,8 +38,8 @@ window.onload = function () {
 
     let inteligencia = `${heroe.powerstats.intelligence}`
 
-    let heroe = await fetch (`https://superheroapi.com/api.php/${clave}/${numero}`)
-    heroe = await heroe.json() // se desempaqueta
+    // let heroe = await fetch (`https://superheroapi.com/api.php/${clave}/${numero}`)
+    // heroe = await heroe.json() // se desempaqueta
     
 
     var chart = new CanvasJS.Chart("chartContainer", {
